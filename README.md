@@ -205,4 +205,4 @@ This repository serves as the official landing page for SpeedFan. The software i
 **Get the most recent version of SpeedFan today!**
 
 ---
-**Last updated:** 2026-11-08 21:05:40 UTC
+**Last updated:** 2026-11-09 01:35:54 UTC
